@@ -1,0 +1,17 @@
+name: mpgan_env
+channels:
+  - defaults
+  - pytorch
+  - conda-forge
+  - anaconda
+dependencies:
+  - python=3.8
+  - numpy
+  - pytorch::pytorch=1.13.0
+  - pytorch::torchvision=0.14.0
+  - conda-forge::cudatoolkit
+  - conda-forge::ipywidgets
+  - conda-forge::tqdm
+  - conda-forge::matplotlib
+  - anaconda::scikit-image
+  - pip
