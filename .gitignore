@@ -7,7 +7,7 @@ __pycache__/
 .idea
 
 #data
-data/*
+data/cifar-10-*
 
 # C extensions
 *.so
