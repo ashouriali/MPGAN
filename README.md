@@ -1,4 +1,9 @@
 # MPGAN
+Multi-Palett GAN for Grayscale Image Colorization 
+
+This project implements a GAN-based approach for colorizing grayscale images using dual generators By leveraging Python and PyTorch. 
+
+
 
 ## Disclaimer
 This project may include dependencies or libraries with licenses I am unaware of.
